@@ -3,7 +3,7 @@
 		{
 			"label": "Build",
 			"type": "cppbuild",
-			"command": "C:\\MinGW6\\bin\\g++.exe",
+			"command": "C:\\MinGW\\bin\\g++.exe",
 			"args": [
 				"${file}",
 				"-o",
